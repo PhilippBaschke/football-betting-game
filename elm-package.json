@@ -1,0 +1,14 @@
+{
+    "version": "0.0.0",
+    "summary": "Get your current standings in a football betting game.",
+    "repository": "https://github.com/PhilippBaschke/football-betting-game.git",
+    "license": "MIT",
+    "source-directories": [
+        "."
+    ],
+    "exposed-modules": [],
+    "dependencies": {
+        "elm-lang/core": "4.0.1 <= v < 5.0.0"
+    },
+    "elm-version": "0.17.0 <= v < 0.18.0"
+}
